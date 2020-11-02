@@ -1,5 +1,14 @@
-### Hi there 👋
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
+<h1 align = center> Hi, my name is Toms 👋</h1>
+<p align = center>🌱 I’m currently learning PHP</p> 
+<p align = center>
+</p>
+  
+  <!-- in your header -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
 
+<!-- in your body -->
+<i class="devicon-php-plain"></i>
 <!--
 **tomsBi/tomsBI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
