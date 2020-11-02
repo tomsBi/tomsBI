@@ -1,8 +1,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
 <h1 align = center> Hi, my name is Toms 👋</h1>
 <p align = center>🌱 I’m currently learning PHP</p> 
-<p align = center>
-</p>
+<p align = center>📫 You can reach me on <a href="https://www.linkedin.com/in/tomsbi/" target="_blank">LinkedIn</a> </p>
   
   <!-- in your header -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
