@@ -1,6 +1,11 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
 <h1 align = center> Hi, my name is Toms 👋</h1>
-<p align = center>🌱 I’m currently learning PHP</p> 
+<p align = center>🌱 I’m currently learning:</p>
+<p align = center>
+  <img src="https://www.php.net/images/logos/new-php-logo.svg" width="50" height="50">
+  <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" width="50" height="50">
+  <img src="https://www.ajaypalcheema.com/content/images/2020/02/CSS.3-1.svg" width="50" height="50">
+</p>
 <p align = center>📫 You can reach me on <a href="https://www.linkedin.com/in/tomsbi/" target="_blank">LinkedIn</a> </p>
   
   <!-- in your header -->
