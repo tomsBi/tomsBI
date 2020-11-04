@@ -7,6 +7,11 @@
   <img src="https://www.ajaypalcheema.com/content/images/2020/02/CSS.3-1.svg" width="50" height="50">
   <img src="https://cdn.worldvectorlogo.com/logos/mysql.svg" width="50" height="50">
 </p>
+<p align = center>
+<a href="https://github.com/tomsBi/php-basics">PHP Basics</a><br>
+<a href="https://github.com/tomsBi/Classes-and-Objects">Classes and objects</a><br>
+<a href="https://github.com/tomsBi/homeworks">Codelex homeworks</a><br>
+  </p>
 <p align = center>📫 You can reach me on <a href="https://www.linkedin.com/in/tomsbi/" target="_blank">LinkedIn</a> </p>
   
   <!-- in your header -->
