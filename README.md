@@ -8,7 +8,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/mysql.svg" width="50" height="50">
 </p>
 <p align = center>
-<a href="https://github.com/tomsBi/php-basics">PHP Basics</a><br>
+<a href="https://github.com/tomsBi/currency-exchange">Currency exchange project</a><br>
 <a href="https://github.com/tomsBi/Classes-and-Objects">Classes and objects</a><br>
 <a href="https://github.com/tomsBi/homeworks">Codelex homeworks</a><br>
   </p>
