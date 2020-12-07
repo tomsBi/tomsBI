@@ -8,9 +8,9 @@
   <img src="https://cdn.worldvectorlogo.com/logos/mysql.svg" width="50" height="50">
 </p>
 <p align = center>
+<a href="https://github.com/tomsBi/quiz-app">Quiz app</a><br>
 <a href="https://github.com/tomsBi/currency-exchange">Currency exchange project</a><br>
-<a href="https://github.com/tomsBi/Classes-and-Objects">Classes and objects</a><br>
-<a href="https://github.com/tomsBi/homeworks">Codelex homeworks</a><br>
+<a href="https://github.com/tomsBi/Yahoo-finances">Yahoo finances</a><br>
   </p>
 <p align = center>📫 You can reach me on <a href="https://www.linkedin.com/in/tomsbi/" target="_blank">LinkedIn</a> </p>
   
