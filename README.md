@@ -13,7 +13,7 @@
 <a href="https://github.com/tomsBi/currency-exchange">Currency exchange project</a><br>
 <a href="https://github.com/tomsBi/Yahoo-finances">Yahoo finances</a><br>
   </p>
-<p align = center>🔭 Currently working for Nordigen <a href="https://nordigen.com/en/" target="_blank">LinkedIn</a> </p
+<p align = center>🔭 Currently working for <a href="https://nordigen.com/en/" target="_blank">Nordigen</a> </p>
 <p align = center>📫 You can reach me on <a href="https://www.linkedin.com/in/tomsbi/" target="_blank">LinkedIn</a> </p>
   
   <!-- in your header -->
