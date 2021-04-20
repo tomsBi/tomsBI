@@ -5,7 +5,7 @@
   <img src="https://www.php.net/images/logos/new-php-logo.svg" width="50" height="50">
   <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" width="50" height="50">
   <img src="https://www.ajaypalcheema.com/content/images/2020/02/CSS.3-1.svg" width="50" height="50">
-  <img src="https://cdn.worldvectorlogo.com/logos/mysql.svg" width="50" height="50">
+  <img src="https://icons-for-free.com/iconfiles/png/512/development+logo+mysql+icon-1320184807686758112.png" width="50" height="50">
 </p>
 <p align = center>
 <a href="https://github.com/tomsBi/quiz-app">Quiz app</a><br>
