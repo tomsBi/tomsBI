@@ -6,12 +6,14 @@
   <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" width="50" height="50">
   <img src="https://www.ajaypalcheema.com/content/images/2020/02/CSS.3-1.svg" width="50" height="50">
   <img src="https://icons-for-free.com/iconfiles/png/512/development+logo+mysql+icon-1320184807686758112.png" width="50" height="50">
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" width="50" height="50">
 </p>
 <p align = center>
 <a href="https://github.com/tomsBi/quiz-app">Quiz app</a><br>
 <a href="https://github.com/tomsBi/currency-exchange">Currency exchange project</a><br>
 <a href="https://github.com/tomsBi/Yahoo-finances">Yahoo finances</a><br>
   </p>
+<p align = center>🔭 Currently working for Nordigen <a href="https://nordigen.com/en/" target="_blank">LinkedIn</a> </p
 <p align = center>📫 You can reach me on <a href="https://www.linkedin.com/in/tomsbi/" target="_blank">LinkedIn</a> </p>
   
   <!-- in your header -->
