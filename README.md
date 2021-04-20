@@ -7,6 +7,8 @@
   <img src="https://www.ajaypalcheema.com/content/images/2020/02/CSS.3-1.svg" width="50" height="50">
   <img src="https://icons-for-free.com/iconfiles/png/512/development+logo+mysql+icon-1320184807686758112.png" width="50" height="50">
   <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" width="50" height="50">
+  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--gaI7Ff9D--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6lu26u1oaysf8cdfiiux.png" width="50" height="50">
+  
 </p>
 <p align = center>
 <a href="https://github.com/tomsBi/quiz-app">Quiz app</a><br>
