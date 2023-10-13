@@ -9,13 +9,7 @@
   <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" width="50" height="50">
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--gaI7Ff9D--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/6lu26u1oaysf8cdfiiux.png" width="50" height="50">
   
-</p>
-<p align = center>
-<a href="https://github.com/tomsBi/quiz-app">Quiz app</a><br>
-<a href="https://github.com/tomsBi/currency-exchange">Currency exchange project</a><br>
-<a href="https://github.com/tomsBi/Yahoo-finances">Yahoo finances</a><br>
-  </p>
-<p align = center>🔭 Currently working for <a href="https://nordigen.com/en/" target="_blank">Nordigen</a> </p>
+<p align = center>🔭 Currently working for <a href="https://gocardless.com/" target="_blank">GoCardless</a> </p>
 <p align = center>📫 You can reach me on <a href="https://www.linkedin.com/in/tomsbi/" target="_blank">LinkedIn</a> </p>
   
   <!-- in your header -->
